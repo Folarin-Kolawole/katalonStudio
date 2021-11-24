@@ -1,0 +1,48 @@
+{
+  "keywordFileContentHash": "8A537C1BA89FC6A1FA0B4DE819E1C307",
+  "keywordClasses": [
+    {
+      "name": "automationpractice.User",
+      "keywordMethods": [
+        {
+          "name": "Login",
+          "parameters": [
+            {
+              "name": "emailAddress",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "password",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\r\n\t * Log in to automationpractice.com\r\n\t * @param user email address for logging in\r\n\t * @param user password for logging in\r\n\t */"
+        },
+        {
+          "name": "Logout",
+          "parameters": [],
+          "javadoc": "/**\r\n\t * Log out of automationpractice.com\r\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
